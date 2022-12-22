@@ -2,7 +2,7 @@
 Classic 2048 game with pure javascript (without animation)
 
 ## Interface
-To start playing, open the file ```index.html```.
+To start playing, open file ```index.html```.
 
 Using keyboard keys WASD (or arrow keys) slide the tiles to double its values.
 
