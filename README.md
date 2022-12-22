@@ -11,4 +11,4 @@ The game ends in two ways:
 * When you filled all the tiles with values and cannot move them - you lose
 
 ## Screenshots
-![Screenshot](https://drive.google.com/file/d/1lkWwOTm935S6J_hBbBeDSeepflAeiqq_/view?usp=sharing)
+![Screenshot](https://github.com/padobrik/2048-game/blob/main/screenshots/screenshot.png)
